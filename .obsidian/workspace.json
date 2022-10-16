@@ -1,0 +1,147 @@
+{
+  "main": {
+    "id": "b4682e6c28eedeb1",
+    "type": "split",
+    "children": [
+      {
+        "id": "2b2cc19ad15f3fc2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "168f8cb387f3e849",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "df2c7d96588c9cee",
+    "type": "split",
+    "children": [
+      {
+        "id": "5ee253d42015d766",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5c18137b20e4a1a4",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c807547925f069ea",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "7ec4f170629fdd7b",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "ca4faafb890b05d9",
+    "type": "split",
+    "children": [
+      {
+        "id": "e5eb15572589eea2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4a7c690ce8cfaf4c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "4ec3561c5584ebd6",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f064fbac96692a37",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9eed98fae29656a2",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 214.5,
+    "collapsed": true
+  },
+  "ribbon": {
+    "mostRecentAction": ""
+  },
+  "active": "168f8cb387f3e849",
+  "lastOpenFiles": [
+    "Дока.md",
+    "Daily Notes/Test4.md",
+    "Daily Notes/test5.md",
+    "Sources/WebSec_Roadmap.pdf.md",
+    "Daily Notes/test2.md",
+    "Sources/Study_plan.pdf",
+    "Daily Notes/red.md",
+    "Daily Notes/First file.md",
+    "Sources/look.com.ua-310015.jpg",
+    "Sources/DSC_5379.jpg"
+  ]
+}
