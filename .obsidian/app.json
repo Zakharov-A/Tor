@@ -1,8 +1,11 @@
 {
   "newFileLocation": "current",
-  "attachmentFolderPath": "Sources",
+  "attachmentFolderPath": "./",
   "userIgnoreFilters": [
-    "Исходники"
+    "Исходники",
+    "Sources/",
+    "Sources/"
   ],
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "promptDelete": false
 }
